@@ -10,9 +10,6 @@ chmod 700 get_helm.sh
 
 ```
 
-## To initiaize helm local repository
-helm init
-
 ### To create helm chart
 ```
 helm create nodeapp-helm
